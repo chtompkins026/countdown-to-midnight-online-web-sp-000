@@ -8,5 +8,5 @@ def countdown(integer)
     i -= 1 
   end 
   
-  return 
+  return "HAPPY NEW YEAR!"
 end
